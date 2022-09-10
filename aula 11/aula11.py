@@ -31,6 +31,8 @@ if idade >= idade_menor and idade <= idade_maior:
     print(f'{nome} pode pegar o empréstimo. ')
 else:
     print(f'{nome} NÃO pode pegar o empréstimo')
+print('___________________________________________________________')
+
 
 time = input ("Qual seu time?")
 nome  =  input ("Qual o seu nome?")
