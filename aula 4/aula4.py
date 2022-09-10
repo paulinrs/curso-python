@@ -28,4 +28,4 @@ print(37, type(37))
 #Altura: float
 print(1.71, type(1.71))
 #e maior de idade 10 > 20
-print(37 > 18, type(37 > 18))
+print(37 > 18, type(22 > 19))

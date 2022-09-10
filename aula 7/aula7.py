@@ -12,5 +12,5 @@ print('{} tem {} anos de , {} de altura, peso {} e seu imc é {:.2f}'.format(nom
 podemos mudar as ordens das variaveis e repertir
 """
 print('{0} tem {1} anos e seu imc é {2:.2f}'.format(nome, idade, imc))
-print('eu tenho {i} anos me chamo {n} e meu imc é {im:.2f}, com {i} anos estou muito bem.'.format(n=nome, i=idade, im=imc))
+print('eu tenho {i} anos me chamo {n} e meu imc é {im:.2f}, com {i} anos estou preparado pra ver o Mengão Campeão da LIbertadores 2022.'.format(n=nome, i=idade, im=imc))
 
