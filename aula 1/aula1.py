@@ -4,7 +4,7 @@ print ('flamengo')
 print ('vai')
 print ('ser')
 print ('campeão')
-print ('da liberdadores 2022')
+print ('da liberdadores 2022!')
 '''''
 mengão
 
